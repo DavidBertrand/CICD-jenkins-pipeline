@@ -1,2 +1,2 @@
-# CICD-jenkins-pipeline
+# oceanblue-jenkins-pipeline
 Udacity training on Jenkins Pipeline 
